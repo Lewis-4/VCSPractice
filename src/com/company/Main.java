@@ -5,11 +5,11 @@ public class Main {
     public static void main(String[] args) {
         // write your code here
 
-        int tempF = 88;
+        int temperatureFahren = 88;
 
         System.out.println("The temperature in degrees celcius is " + fahrenToCelcius(tempF));
 
-        int tempC=34;
+        int temperatureCelsius=34;
 
         System.out.println("The temperature in degrees fahrenheit is " + celcToFahren(tempC));
 
